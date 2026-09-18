@@ -1,0 +1,10 @@
+{
+    "format_version": 1,
+    "id": "community.crypto_tracker",
+    "name": "Crypto Tracker",
+    "version": "0.2.0",
+    "description": "Live crypto prices, fetched on-device",
+    "author": "alex",
+    "heap_size_kib": 256,
+    "debug": false
+}
