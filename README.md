@@ -3,13 +3,13 @@
 An on-device JavaScript app for the [BUSY Bar](https://busy.app) that shows live
 crypto prices on the 72×16 front display. It runs **on the bar** (JerryScript)
 and fetches prices **itself** over HTTPS — no companion app or host feeder
-required.
+required. Swipe through coins with the encoder.
 
 ![coins](icons/16px/spritesheet-160x16.png)
 
 - **Coins:** BTC · ETH · BNB · SOL · XRP · TRX · ZEC · HYPE · DOGE · XMR
 - **Source:** [CoinGecko](https://www.coingecko.com) public API (USD price + 24h change), one request every 20s
-- **Controls:** turn the **encoder** to switch coins · press **OK** to force a refresh
+- **Controls:** turn the **encoder** to switch coins 
 - **Display:** coin icon (left), symbol + signed 24h % (top, green/red), price (bottom); smooth slide when switching coins
 
 ## Requirements
